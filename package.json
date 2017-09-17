@@ -1,0 +1,15 @@
+{
+  "name": "spreadsheet",
+  "version": "1.0.0",
+  "description": "Read spreadsheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenerbe@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "xlsx": "^0.11.3"
+  }
+}
